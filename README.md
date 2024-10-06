@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasret Ünal</h1>
-<h3 align="center">I'm Full-Stack Developer</h3>
+<h3 align="center">I'm Frontend Developer</h3>
 
 - 📫 How to reach me **s.hasretunal@gmail.com**
 
